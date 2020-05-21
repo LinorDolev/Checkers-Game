@@ -1,0 +1,20 @@
+.Piece{
+    width: 64px;
+    height: 64px;
+    display: inline-block;
+}
+.Black{
+    background-image: url('/images/remove.png');
+}
+
+.White{
+    background-image: url('/images/plus.png');
+}
+
+.BlackKing{
+    background-image: url('/images/red-king.png');
+}
+
+.WhiteKing{
+    background-image: url('/images/blue-king.png');
+}

@@ -1,0 +1,15 @@
+.Chequer{
+    height: 64px;
+    width: 64px;
+    align-content: center;
+}
+
+.Glow{
+    opacity:0.5;
+}
+.WhiteChequer{
+    background-color:white;
+}
+.BlackChequer{
+    background-color:black;
+}
